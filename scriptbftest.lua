@@ -9,7 +9,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "Script BF test",
         Description = "Key: 1234",
-        KeyLink = "https://www.google.com",
+        KeyLink = "Japan Sex Movies",
         Keys = {"1234"},
         Notifi = {
         Notifications = true,
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=16607745485",
+       Image = "",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
