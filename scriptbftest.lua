@@ -15,8 +15,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Notifi = {
         Notifications = true,
         CorrectKey = "Running the Script...",
-       Incorrectkey = "The key is incorrect",
-       CopyKeyLink = "Copied to Clipboard"
+        Incorrectkey = "The key is incorrect",
+        CopyKeyLink = "Copied to Clipboard"
       }
     }
   })
