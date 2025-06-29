@@ -7,7 +7,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          },
         Key = {
         KeySystem = true,
-        Title = "Password",
+        Title = "Script BF test",
         Description = "Password: 1234",
         KeyLink = "https://www.google.com",
         Keys = {"1234"},
