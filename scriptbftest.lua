@@ -3,14 +3,15 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "Script BF test",
+	 Description = "Script manager",
          Animation = "Starting up..."
          },
         Key = {
         KeySystem = true,
         Title = "Script BF test",
-        Description = "Key: 1234",
-        KeyLink = "Japan Sex Movies",
-        Keys = {"1234"},
+        Description = "Key system",
+        KeyLink = "47464465576755",
+        Keys = {"47464465576755"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Running the Script...",
