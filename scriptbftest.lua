@@ -25,8 +25,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        Image = "",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
-       Corner = true,
-       Stroke = false,
+       Corner = false,
+       Stroke = true,
        StrokeColor = Color3.fromRGB(255, 0, 0)
       })
       
@@ -36,7 +36,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 ------- BUTTON
     
     AddButton(Tab1o, {
-     Name = "Start",
+     Name = "Start execute",
     Callback = function()
 	  local Settings = {
   JoinTeam = "Marines"; -- Pirates/Marines
