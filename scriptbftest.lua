@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "Script BF test",
-         Animation = "Startuping..."
+         Animation = "Starting up..."
          },
         Key = {
         KeySystem = true,
